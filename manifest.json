@@ -1,0 +1,24 @@
+{
+  "name": "Space_Traders",
+  "title": "Space _Traders",
+  "description": "Space Traders game module",
+  "authors": [
+    {
+      "name": "Memelotsqui",
+      "email": "memelotsqui@gmail.com",
+      "url": "memelotsqui.com"
+    }
+  ],
+  "version": "1.0.1",
+  "compatibility": {
+    "minimum": "0.9.3",
+    "verified": "0.9.3"
+  },
+  "scripts": [
+    "scripts/SpaceTraders.js"
+  ],
+  "components": [
+    "components/SpaceTradersSettings.jsx",
+    "components/SpaceTradersMenuButton.jsx"
+  ]
+}
